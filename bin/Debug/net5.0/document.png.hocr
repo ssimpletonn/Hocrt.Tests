@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='RoomyBots' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "120437545.PDF001.png"; bbox 0 0 1240 1754; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 1126 6 1754">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 0 1126 6 1754">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 1126 6 1754; baseline 0 0; x_size 314; x_descenders -157; x_ascenders 157">
+      <span class='ocrx_word' id='word_1_1' title='bbox 0 1126 6 1754; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1240 271">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 0 0 1240 271">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1240 271; baseline 0 1483; x_size 340; x_descenders 85; x_ascenders 85">
+      <span class='ocrx_word' id='word_1_2' title='bbox 0 0 1240 271; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 187 296 1144 353">
+    <p class='ocr_par' id='par_1_3' lang='rus' title="bbox 187 296 1144 353">
+     <span class='ocr_caption' id='line_1_3' title="bbox 553 296 792 323; baseline -0.004 -4; x_size 26; x_descenders 4; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_3' title='bbox 553 296 689 323; x_wconf 96'>СУДЕБНЫЙ</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 697 301 792 318; x_wconf 96'>ПРИКАЗ</span>
+     </span>
+     <span class='ocr_caption' id='line_1_4' title="bbox 187 328 1144 353; baseline -0.003 -4; x_size 22; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_5' title='bbox 187 332 210 349; x_wconf 96'>07</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 218 336 296 353; x_wconf 96'>сентября</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 303 331 351 348; x_wconf 96'>2011</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 359 336 374 348; x_wconf 96'>г.</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 999 329 1022 346; x_wconf 93'>№</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1030 328 1144 346; x_wconf 87' lang='eng'>2-633/2012</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 186 385 1159 610">
+    <p class='ocr_par' id='par_1_4' lang='rus' title="bbox 186 385 1159 610">
+     <span class='ocr_line' id='line_1_5' title="bbox 217 385 1157 410; baseline -0.003 -4; x_size 23; x_descenders 5; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_11' title='bbox 217 389 315 410; x_wconf 82'>Мировой</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 340 393 398 410; x_wconf 88'>сулья</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 423 387 529 410; x_wconf 95'>судебного</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 554 392 635 409; x_wconf 93'>участка</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 658 386 681 404; x_wconf 96'>№</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 706 386 717 404; x_wconf 92' lang='eng'>9</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 742 386 888 408; x_wconf 91'>Декабрьского</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 914 385 1020 408; x_wconf 95'>судебного</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1045 387 1119 408; x_wconf 93'>района</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1143 391 1157 403; x_wconf 93'>г.</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 186 414 1157 439; baseline -0.003 -5; x_size 22; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_21' title='bbox 186 416 345 439; x_wconf 94'>Екатеринбурга</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 361 416 510 438; x_wconf 96'>Свердловской</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 526 415 608 433; x_wconf 93'>области</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 624 415 742 437; x_wconf 31'>Симонова</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 758 415 806 435; x_wconf 78'>К.В.</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 823 414 911 436; x_wconf 95'>(220262,</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 927 419 942 431; x_wconf 96'>г.</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 958 414 1111 436; x_wconf 93'>Екатеринбург,</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1128 419 1157 436; x_wconf 96'>ул.</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 186 438 1159 468; baseline -0.004 -5; x_size 20; x_descenders 3; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_30' title='bbox 186 445 339 468; x_wconf 66'>Крестинского,</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 361 450 378 465; x_wconf 96'>д.</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 401 444 457 466; x_wconf 95'>78/1),</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 479 449 597 467; x_wconf 53'>рассмотрев</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 618 448 723 461; x_wconf 95'>заявление</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 744 443 868 465; x_wconf 96'>публичного</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 890 447 1037 465; x_wconf 19'>акционерного</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1060 438 1159 466; x_wconf 67'>общества,</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 186 470 1157 494; baseline -0.003 -3; x_size 21; x_descenders 3; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_38' title='bbox 186 474 341 494; x_wconf 80'>национальный</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 361 473 409 490; x_wconf 88'>банк</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 429 472 536 493; x_wconf 96'>«ТЕСТ»,</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 555 477 729 494; x_wconf 96'>расположенного</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 749 477 773 489; x_wconf 96'>по</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 793 476 867 494; x_wconf 19'>адресу:</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 891 470 968 492; x_wconf 93'>103264,</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 988 476 1003 488; x_wconf 96'>г.</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 1022 470 1108 491; x_wconf 93'>Москва,</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 1127 476 1157 493; x_wconf 96'>ул.</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 187 501 1158 525; baseline -0.004 -5; x_size 24.205128; x_descenders 5.5; x_ascenders 6.2051282">
+      <span class='ocrx_word' id='word_1_48' title='bbox 187 502 349 525; x_wconf 95'>Спартаковская,</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 360 507 378 522; x_wconf 96'>д.</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 390 502 406 523; x_wconf 95'>12,</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 418 506 513 524; x_wconf 96'>строение</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 526 501 540 522; x_wconf 94' lang='eng'>1,</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 552 506 563 518; x_wconf 94'>о</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 574 506 686 518; x_wconf 96'>взыскании</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 696 505 857 520; x_wconf 96'>задолженности</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 867 505 892 517; x_wconf 96'>по</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 903 504 1029 522; x_wconf 96'>кредитному</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 1040 504 1137 521; x_wconf 95'>договору</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 1148 504 1158 516; x_wconf 78'>с</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 186 528 1157 552; baseline -0.003 -4; x_size 23; x_descenders 5; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_60' title='bbox 186 536 291 551; x_wconf 93'>должника</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 300 531 440 548; x_wconf 74'>Фроловой</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 449 530 517 547; x_wconf 93'>Елены</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 527 530 659 552; x_wconf 73'>Валерьевны,</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 672 529 693 546; x_wconf 96'>12</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 702 528 785 551; x_wconf 96'>декабря</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 797 528 844 546; x_wconf 96'>1965</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 854 533 900 548; x_wconf 96'>года</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 909 533 1019 550; x_wconf 93'>рождения,</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 1029 533 1133 550; x_wconf 91'>уроженки</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 1143 533 1157 545; x_wconf 96'>г.</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 187 556 1157 582; baseline -0.004 -5; x_size 23; x_descenders 5; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_71' title='bbox 187 560 327 582; x_wconf 94'>Свердловска,</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 339 559 493 582; x_wconf 95'>проживающей</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 504 564 529 576; x_wconf 96'>по</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 541 563 615 580; x_wconf 96'>адресу:</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 629 557 708 578; x_wconf 94'>120344,</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 721 557 866 580; x_wconf 93'>Свердловская</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 878 556 965 577; x_wconf 96'>область,</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 977 562 992 574; x_wconf 90'>г,</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 1005 556 1157 578; x_wconf 96'>Екатеринбург,</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 186 587 504 610; baseline -0.003 -5; x_size 21; x_descenders 4; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_80' title='bbox 186 594 215 610; x_wconf 96'>ул.</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 223 588 355 609; x_wconf 53'>Шейнкмана,</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 363 593 380 608; x_wconf 96'>д.</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 391 587 431 607; x_wconf 95'>123,</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 439 593 466 604; x_wconf 96'>кв.</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 475 587 504 608; x_wconf 96'>6,</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 592 642 751 660">
+    <p class='ocr_par' id='par_1_5' lang='rus' title="bbox 592 642 751 660">
+     <span class='ocr_line' id='line_1_13' title="bbox 592 642 751 660; baseline 0 0; x_size 23.555555; x_descenders 5.8888888; x_ascenders 5.8888888">
+      <span class='ocrx_word' id='word_1_86' title='bbox 592 642 751 660; x_wconf 70'>УСТАНОВИЛ:</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 186 698 1159 984">
+    <p class='ocr_par' id='par_1_6' lang='rus' title="bbox 186 698 1159 926">
+     <span class='ocr_line' id='line_1_14' title="bbox 217 698 1159 723; baseline -0.004 -4; x_size 22; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_87' title='bbox 217 702 340 719; x_wconf 91'>Взыскатель</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 360 700 472 723; x_wconf 48'>публичное</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 492 705 626 722; x_wconf 94'>акционерное</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 646 699 745 719; x_wconf 96'>общество</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 765 699 920 719; x_wconf 96'>национальный</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 939 698 988 716; x_wconf 96'>банк</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 1008 698 1115 719; x_wconf 94'>«Тест»,</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 1135 703 1159 715; x_wconf 96'>на</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 186 727 1159 750; baseline -0.005 -2; x_size 21; x_descenders 3; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_95' title='bbox 186 735 298 748; x_wconf 60'>основании</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 316 735 342 747; x_wconf 95'>ст.</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 362 735 388 747; x_wconf 96'>ст.</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 408 729 450 750; x_wconf 96'>309,</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 469 729 511 750; x_wconf 95'>310,</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 530 728 571 750; x_wconf 96'>809,</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 591 728 632 749; x_wconf 95' lang='eng'>810,</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 652 728 693 749; x_wconf 96'>811,</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 713 728 748 745; x_wconf 93'>818</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 767 728 916 750; x_wconf 89'>Гражданского</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 935 732 1018 747; x_wconf 96'>кодекса</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 1035 727 1159 744; x_wconf 83'>Российской</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 186 756 1159 782; baseline -0.004 -5; x_size 24.439884; x_descenders 5.6946902; x_ascenders 6.2451925">
+      <span class='ocrx_word' id='word_1_107' title='bbox 186 760 303 782; x_wconf 94'>Федерации</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 324 764 397 782; x_wconf 95'>просит</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 417 763 511 776; x_wconf 96'>взыскать</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 531 763 541 775; x_wconf 86'>©</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 561 757 699 775; x_wconf 91'>Фроловой</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 720 757 788 774; x_wconf 93'>Елены</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 807 756 935 779; x_wconf 54'>Валеръевны</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 954 761 1114 776; x_wconf 93'>задолженность</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 1135 761 1159 773; x_wconf 89'>но</span>
+     </span>
+     <span class='ocr_line' id='line_1_17' title="bbox 186 785 1159 812; baseline -0.004 -6; x_size 24; x_descenders 6; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_116' title='bbox 186 794 312 811; x_wconf 96'>кредитному</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 321 793 418 810; x_wconf 90'>договору</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 427 787 450 805; x_wconf 96'>№</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 460 786 581 812; x_wconf 95'>2450304111</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 593 792 615 804; x_wconf 96'>от</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 625 786 742 807; x_wconf 96'>20.08.2012,</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 751 791 906 808; x_wconf 96'>заключенному</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 916 791 926 802; x_wconf 96'>в</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 936 785 1022 808; x_wconf 96'>простой</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 1031 785 1159 802; x_wconf 88'>письменной</span>
+     </span>
+     <span class='ocr_line' id='line_1_18' title="bbox 186 812 1158 840; baseline -0.005 -5; x_size 23; x_descenders 5; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_126' title='bbox 186 817 253 840; x_wconf 96'>форме</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 262 823 274 834; x_wconf 96'>и</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 283 822 437 839; x_wconf 63'>подписанному</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 446 812 563 839; x_wconf 95'>сторонами,</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 572 815 749 838; x_wconf 84'>образовавшуюся</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 757 820 778 832; x_wconf 96'>за</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 785 820 860 837; x_wconf 96'>период</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 869 819 878 832; x_wconf 88' lang='eng'>¢</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 887 814 999 831; x_wconf 95' lang='eng'>21.09.2015</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 1008 819 1032 831; x_wconf 91' lang='eng'>mo</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 1041 813 1158 834; x_wconf 93'>22.09.2015,</span>
+     </span>
+     <span class='ocr_line' id='line_1_19' title="bbox 186 842 1159 869; baseline -0.005 -5; x_size 23; x_descenders 5; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_137' title='bbox 186 852 197 864; x_wconf 96'>в</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 207 851 290 869; x_wconf 96'>размере</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 302 846 325 863; x_wconf 95' lang='eng'>24</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 337 845 372 863; x_wconf 95'>545</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 384 845 464 868; x_wconf 93'>рублей,</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 476 850 510 862; x_wconf 93'>что</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 521 850 621 862; x_wconf 87'>включаст</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 632 850 642 861; x_wconf 96'>в</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 653 844 698 862; x_wconf 96'>себя</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 709 844 808 861; x_wconf 96'>основной</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 819 849 867 864; x_wconf 96'>долг</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 877 849 888 860; x_wconf 96'>в</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 899 848 982 866; x_wconf 96'>размере</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 994 842 1004 860; x_wconf 95' lang='eng'>6</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 1018 842 1050 860; x_wconf 96'>181</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 1063 842 1124 865; x_wconf 96'>рубль</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 1137 842 1159 859; x_wconf 96'>19</span>
+     </span>
+     <span class='ocr_line' id='line_1_20' title="bbox 186 871 1159 897; baseline -0.004 -4; x_size 24; x_descenders 6; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_154' title='bbox 186 880 263 896; x_wconf 36'>копеек,</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 274 880 378 897; x_wconf 96'>проценты</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 387 880 408 892; x_wconf 96'>за</span>
+      <span class='ocrx_word' id='word_1_157' title='bbox 418 879 549 891; x_wconf 96'>пользование</span>
+      <span class='ocrx_word' id='word_1_158' title='bbox 559 878 659 896; x_wconf 96'>кредитом</span>
+      <span class='ocrx_word' id='word_1_159' title='bbox 669 878 680 890; x_wconf 96'>в</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 690 878 772 895; x_wconf 94'>размере</span>
+      <span class='ocrx_word' id='word_1_161' title='bbox 785 872 805 890; x_wconf 96'>18</span>
+      <span class='ocrx_word' id='word_1_162' title='bbox 817 872 851 890; x_wconf 96'>363</span>
+      <span class='ocrx_word' id='word_1_163' title='bbox 863 872 924 895; x_wconf 95'>рубля</span>
+      <span class='ocrx_word' id='word_1_164' title='bbox 935 872 956 889; x_wconf 96'>81</span>
+      <span class='ocrx_word' id='word_1_165' title='bbox 969 872 1055 894; x_wconf 90'>копейку</span>
+      <span class='ocrx_word' id='word_1_166' title='bbox 1066 871 1128 894; x_wconf 91'>(39,00</span>
+      <span class='ocrx_word' id='word_1_167' title='bbox 1139 871 1159 888; x_wconf 91'>%</span>
+     </span>
+     <span class='ocr_line' id='line_1_21' title="bbox 186 901 1045 926; baseline -0.005 -5; x_size 24.439884; x_descenders 5.6946902; x_ascenders 6.2451925">
+      <span class='ocrx_word' id='word_1_168' title='bbox 186 904 288 926; x_wconf 89'>тодовых),</span>
+      <span class='ocrx_word' id='word_1_169' title='bbox 296 909 307 920; x_wconf 90'>в</span>
+      <span class='ocrx_word' id='word_1_170' title='bbox 314 909 371 921; x_wconf 90'>связи</span>
+      <span class='ocrx_word' id='word_1_171' title='bbox 379 909 388 920; x_wconf 95'>с</span>
+      <span class='ocrx_word' id='word_1_172' title='bbox 396 908 520 920; x_wconf 0'>неисполнением</span>
+      <span class='ocrx_word' id='word_1_173' title='bbox 566 907 687 922; x_wconf 95'>должником</span>
+      <span class='ocrx_word' id='word_1_174' title='bbox 695 907 754 919; x_wconf 95'>своих</span>
+      <span class='ocrx_word' id='word_1_175' title='bbox 762 901 904 918; x_wconf 94'>обязанностей</span>
+      <span class='ocrx_word' id='word_1_176' title='bbox 912 906 936 918; x_wconf 96'>по</span>
+      <span class='ocrx_word' id='word_1_177' title='bbox 943 905 1045 922; x_wconf 91'>договору.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='rus' title="bbox 187 929 1159 984">
+     <span class='ocr_line' id='line_1_22' title="bbox 217 929 1159 953; baseline -0.004 -3; x_size 22; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_178' title='bbox 217 933 246 950; x_wconf 96'>На</span>
+      <span class='ocrx_word' id='word_1_179' title='bbox 263 937 375 950; x_wconf 96'>основании</span>
+      <span class='ocrx_word' id='word_1_180' title='bbox 393 937 419 949; x_wconf 96'>ст.</span>
+      <span class='ocrx_word' id='word_1_181' title='bbox 440 931 470 949; x_wconf 93'>121</span>
+      <span class='ocrx_word' id='word_1_182' title='bbox 493 941 499 944; x_wconf 91'>-</span>
+      <span class='ocrx_word' id='word_1_183' title='bbox 520 931 553 948; x_wconf 94'>130</span>
+      <span class='ocrx_word' id='word_1_184' title='bbox 571 931 720 953; x_wconf 96'>Гражданского</span>
+      <span class='ocrx_word' id='word_1_185' title='bbox 738 935 917 952; x_wconf 77'>процессуального</span>
+      <span class='ocrx_word' id='word_1_186' title='bbox 936 934 1019 949; x_wconf 96'>кодекса</span>
+      <span class='ocrx_word' id='word_1_187' title='bbox 1035 929 1159 946; x_wconf 95'>Российской</span>
+     </span>
+     <span class='ocr_line' id='line_1_23' title="bbox 187 961 474 984; baseline -0.007 -5; x_size 22; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_188' title='bbox 187 962 309 984; x_wconf 0'>Федерации,</span>
+      <span class='ocrx_word' id='word_1_189' title='bbox 317 961 408 983; x_wconf 67'>мировой</span>
+      <span class='ocrx_word' id='word_1_190' title='bbox 416 966 474 982; x_wconf 96'>судья</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 521 907 648 920">
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 521 907 648 920">
+     <span class='ocr_line' id='line_1_24' title="bbox 521 907 648 920; baseline 0.008 -1; x_size 17.333332; x_descenders 4.333333; x_ascenders 4.3333335">
+      <span class='ocrx_word' id='word_1_191' title='bbox 521 908 562 919; x_wconf 95'> </span>
+      <span class='ocrx_word' id='word_1_192' title='bbox 598 907 648 920; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 583 1016 760 1034">
+    <p class='ocr_par' id='par_1_9' lang='rus' title="bbox 583 1016 760 1034">
+     <span class='ocr_line' id='line_1_25' title="bbox 583 1016 760 1034; baseline -0.006 0; x_size 23.333334; x_descenders 5.8333335; x_ascenders 5.8333335">
+      <span class='ocrx_word' id='word_1_193' title='bbox 583 1016 760 1034; x_wconf 96'>ПОСТАНОВИЛ:</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 186 1073 1159 1305">
+    <p class='ocr_par' id='par_1_10' lang='rus' title="bbox 191 1073 1158 1186">
+     <span class='ocr_line' id='line_1_26' title="bbox 222 1073 1158 1099; baseline -0.005 -5; x_size 23; x_descenders 6; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_194' title='bbox 222 1077 321 1094; x_wconf 96'>Взыскать</span>
+      <span class='ocrx_word' id='word_1_195' title='bbox 339 1081 349 1093; x_wconf 93'>с</span>
+      <span class='ocrx_word' id='word_1_196' title='bbox 366 1076 505 1093; x_wconf 83'>Фроловой</span>
+      <span class='ocrx_word' id='word_1_197' title='bbox 523 1075 591 1099; x_wconf 79'>Елены</span>
+      <span class='ocrx_word' id='word_1_198' title='bbox 608 1074 735 1097; x_wconf 61'>Николаевны</span>
+      <span class='ocrx_word' id='word_1_199' title='bbox 752 1079 762 1091; x_wconf 96'>в</span>
+      <span class='ocrx_word' id='word_1_200' title='bbox 780 1079 851 1096; x_wconf 95'>пользу</span>
+      <span class='ocrx_word' id='word_1_201' title='bbox 868 1073 993 1096; x_wconf 93'>публичного</span>
+      <span class='ocrx_word' id='word_1_202' title='bbox 1011 1077 1158 1095; x_wconf 89'>акнионерного</span>
+     </span>
+     <span class='ocr_line' id='line_1_27' title="bbox 191 1103 1158 1126; baseline -0.005 -3; x_size 23; x_descenders 5; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_203' title='bbox 191 1105 291 1126; x_wconf 0'>общества</span>
+      <span class='ocrx_word' id='word_1_204' title='bbox 309 1105 463 1125; x_wconf 46'>национальный</span>
+      <span class='ocrx_word' id='word_1_205' title='bbox 482 1104 531 1122; x_wconf 96'>банк</span>
+      <span class='ocrx_word' id='word_1_206' title='bbox 549 1103 650 1121; x_wconf 96'>«ТЕСТ»</span>
+      <span class='ocrx_word' id='word_1_207' title='bbox 668 1108 827 1123; x_wconf 88'>задолженность</span>
+      <span class='ocrx_word' id='word_1_208' title='bbox 846 1107 870 1120; x_wconf 96'>по</span>
+      <span class='ocrx_word' id='word_1_209' title='bbox 890 1107 1015 1125; x_wconf 96'>кредитному</span>
+      <span class='ocrx_word' id='word_1_210' title='bbox 1033 1106 1129 1123; x_wconf 87'>договору</span>
+      <span class='ocrx_word' id='word_1_211' title='bbox 1147 1106 1158 1118; x_wconf 95'>в</span>
+     </span>
+     <span class='ocr_line' id='line_1_28' title="bbox 191 1130 1157 1157; baseline -0.005 -5; x_size 23; x_descenders 5; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_212' title='bbox 191 1140 274 1157; x_wconf 96'>размере</span>
+      <span class='ocrx_word' id='word_1_213' title='bbox 284 1134 307 1152; x_wconf 96' lang='eng'>24</span>
+      <span class='ocrx_word' id='word_1_214' title='bbox 318 1134 353 1152; x_wconf 94'>545</span>
+      <span class='ocrx_word' id='word_1_215' title='bbox 363 1133 437 1156; x_wconf 96'>рублей</span>
+      <span class='ocrx_word' id='word_1_216' title='bbox 447 1139 459 1151; x_wconf 96'>и</span>
+      <span class='ocrx_word' id='word_1_217' title='bbox 469 1138 652 1156; x_wconf 68'>государственную</span>
+      <span class='ocrx_word' id='word_1_218' title='bbox 662 1137 758 1154; x_wconf 96'>пошлину</span>
+      <span class='ocrx_word' id='word_1_219' title='bbox 767 1137 778 1149; x_wconf 95'>в</span>
+      <span class='ocrx_word' id='word_1_220' title='bbox 787 1137 870 1154; x_wconf 64'>размере</span>
+      <span class='ocrx_word' id='word_1_221' title='bbox 879 1131 915 1149; x_wconf 96'>468</span>
+      <span class='ocrx_word' id='word_1_222' title='bbox 926 1131 1006 1154; x_wconf 95'>рублей,</span>
+      <span class='ocrx_word' id='word_1_223' title='bbox 1015 1136 1078 1148; x_wconf 94'>всего:</span>
+      <span class='ocrx_word' id='word_1_224' title='bbox 1089 1130 1111 1148; x_wconf 96'>25</span>
+      <span class='ocrx_word' id='word_1_225' title='bbox 1122 1130 1157 1148; x_wconf 96'>013</span>
+     </span>
+     <span class='ocr_line' id='line_1_29' title="bbox 192 1162 637 1186; baseline -0.004 -5; x_size 20; x_descenders 3; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_226' title='bbox 192 1164 293 1186; x_wconf 77'>{двадцать</span>
+      <span class='ocrx_word' id='word_1_227' title='bbox 301 1169 347 1181; x_wconf 95'>пять</span>
+      <span class='ocrx_word' id='word_1_228' title='bbox 354 1168 416 1181; x_wconf 96'>тысяч</span>
+      <span class='ocrx_word' id='word_1_229' title='bbox 424 1162 551 1185; x_wconf 69'>тринадцать)</span>
+      <span class='ocrx_word' id='word_1_230' title='bbox 559 1162 637 1185; x_wconf 96'>рублей.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_11' lang='rus' title="bbox 186 1192 1159 1244">
+     <span class='ocr_line' id='line_1_30' title="bbox 223 1192 1159 1213; baseline -0.005 -3; x_size 24.373461; x_descenders 5.6884613; x_ascenders 6.1849999">
+      <span class='ocrx_word' id='word_1_231' title='bbox 223 1193 238 1210; x_wconf 95'>В</span>
+      <span class='ocrx_word' id='word_1_232' title='bbox 253 1197 337 1210; x_wconf 96'>течение</span>
+      <span class='ocrx_word' id='word_1_233' title='bbox 354 1192 375 1209; x_wconf 95'>10</span>
+      <span class='ocrx_word' id='word_1_234' title='bbox 389 1192 440 1212; x_wconf 96'>дней</span>
+      <span class='ocrx_word' id='word_1_235' title='bbox 455 1197 476 1209; x_wconf 96'>со</span>
+      <span class='ocrx_word' id='word_1_236' title='bbox 491 1196 528 1211; x_wconf 96'>дня</span>
+      <span class='ocrx_word' id='word_1_237' title='bbox 542 1196 654 1213; x_wconf 96'>получения</span>
+      <span class='ocrx_word' id='word_1_238' title='bbox 668 1195 756 1213; x_wconf 95'>приказа,</span>
+      <span class='ocrx_word' id='word_1_239' title='bbox 771 1195 864 1210; x_wconf 96'>должник</span>
+      <span class='ocrx_word' id='word_1_240' title='bbox 878 1194 940 1207; x_wconf 96'>имеет</span>
+      <span class='ocrx_word' id='word_1_241' title='bbox 954 1194 1014 1211; x_wconf 96'>право</span>
+      <span class='ocrx_word' id='word_1_242' title='bbox 1029 1193 1159 1211; x_wconf 93'>представить</span>
+     </span>
+     <span class='ocr_line' id='line_1_31' title="bbox 186 1225 638 1244; baseline -0.004 -5; x_size 24.373461; x_descenders 5.6884613; x_ascenders 6.1849999">
+      <span class='ocrx_word' id='word_1_243' title='bbox 186 1227 309 1244; x_wconf 96'>возражения</span>
+      <span class='ocrx_word' id='word_1_244' title='bbox 317 1226 461 1238; x_wconf 96'>относительно</span>
+      <span class='ocrx_word' id='word_1_245' title='bbox 469 1225 501 1238; x_wconf 96'>его</span>
+      <span class='ocrx_word' id='word_1_246' title='bbox 509 1225 638 1237; x_wconf 96'>исполнения.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_12' lang='rus' title="bbox 186 1245 1159 1305">
+     <span class='ocr_line' id='line_1_32' title="bbox 217 1245 1159 1275; baseline -0.006 -7; x_size 24.373461; x_descenders 5.6884613; x_ascenders 6.1849999">
+      <span class='ocrx_word' id='word_1_247' title='bbox 217 1251 232 1268; x_wconf 96'>В</span>
+      <span class='ocrx_word' id='word_1_248' title='bbox 249 1255 318 1273; x_wconf 47'>случае</span>
+      <span class='ocrx_word' id='word_1_249' title='bbox 333 1255 496 1266; x_wconf 5'>постуйления_в</span>
+      <span class='ocrx_word' id='word_1_250' title='bbox 511 1249 673 1271; x_wconf 96'>установленный</span>
+      <span class='ocrx_word' id='word_1_251' title='bbox 689 1253 737 1270; x_wconf 96'>срок</span>
+      <span class='ocrx_word' id='word_1_252' title='bbox 752 1248 876 1270; x_wconf 96'>возражений</span>
+      <span class='ocrx_word' id='word_1_253' title='bbox 893 1252 915 1264; x_wconf 96'>от</span>
+      <span class='ocrx_word' id='word_1_254' title='bbox 930 1251 1040 1267; x_wconf 93'>должника,</span>
+      <span class='ocrx_word' id='word_1_255' title='bbox 1057 1245 1159 1267; x_wconf 96'>судебный</span>
+     </span>
+     <span class='ocr_line' id='line_1_33' title="bbox 186 1274 454 1305; baseline -0.007 -8; x_size 26; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_256' title='bbox 186 1285 257 1302; x_wconf 96'>приказ</span>
+      <span class='ocrx_word' id='word_1_257' title='bbox 265 1275 369 1305; x_wconf 45'>подлежит</span>
+      <span class='ocrx_word' id='word_1_258' title='bbox 376 1274 454 1296; x_wconf 75'>отмене.</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_10' title="bbox 987 1330 1155 1353">
+    <p class='ocr_par' id='par_1_13' lang='rus' title="bbox 987 1330 1155 1353">
+     <span class='ocr_caption' id='line_1_34' title="bbox 987 1330 1155 1353; baseline -0.012 -4; x_size 22; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_259' title='bbox 987 1332 1106 1353; x_wconf 64'>Симонова</span>
+      <span class='ocrx_word' id='word_1_260' title='bbox 1112 1330 1155 1347; x_wconf 96'>К.В.</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_11' title="bbox 186 1316 611 1498">
+    <p class='ocr_par' id='par_1_14' lang='eng' title="bbox 186 1316 611 1498">
+     <span class='ocr_line' id='line_1_35' title="bbox 186 1316 611 1498; baseline 0 256; x_size 76; x_descenders 19; x_ascenders 18.999998">
+      <span class='ocrx_word' id='word_1_261' title='bbox 186 1316 611 1498; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_12' title="bbox 588 1749 684 1754">
+    <p class='ocr_par' id='par_1_15' lang='eng' title="bbox 588 1749 684 1754">
+     <span class='ocr_line' id='line_1_36' title="bbox 588 1749 684 1754; baseline 0 0; x_size 2.5; x_descenders -1.25; x_ascenders 1.25">
+      <span class='ocrx_word' id='word_1_262' title='bbox 588 1749 684 1754; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_13' title="bbox 1237 133 1240 998">
+    <p class='ocr_par' id='par_1_16' lang='eng' title="bbox 1237 133 1240 998">
+     <span class='ocr_line' id='line_1_37' title="bbox 1237 133 1240 998; baseline 0 0; x_size 432.5; x_descenders -216.25; x_ascenders 216.25">
+      <span class='ocrx_word' id='word_1_263' title='bbox 1237 133 1240 998; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_14' title="bbox 1234 178 1240 998">
+    <p class='ocr_par' id='par_1_17' lang='eng' title="bbox 1234 178 1240 998">
+     <span class='ocr_line' id='line_1_38' title="bbox 1234 178 1240 998; baseline 0 0; x_size 410; x_descenders -205; x_ascenders 205">
+      <span class='ocrx_word' id='word_1_264' title='bbox 1234 178 1240 998; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_15' title="bbox 1234 178 1240 998">
+    <p class='ocr_par' id='par_1_18' lang='eng' title="bbox 1234 178 1240 998">
+     <span class='ocr_line' id='line_1_39' title="bbox 1234 178 1240 998; baseline 0 0; x_size 410; x_descenders -205; x_ascenders 205">
+      <span class='ocrx_word' id='word_1_265' title='bbox 1234 178 1240 998; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_16' title="bbox 1236 178 1240 998">
+    <p class='ocr_par' id='par_1_19' lang='eng' title="bbox 1236 178 1240 998">
+     <span class='ocr_line' id='line_1_40' title="bbox 1236 178 1240 998; baseline 0 0; x_size 410; x_descenders -205; x_ascenders 205">
+      <span class='ocrx_word' id='word_1_266' title='bbox 1236 178 1240 998; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_17' title="bbox 726 1697 1240 1754">
+    <p class='ocr_par' id='par_1_20' lang='eng' title="bbox 726 1697 1240 1754">
+     <span class='ocr_line' id='line_1_41' title="bbox 726 1697 1240 1754; baseline 0 0; x_size 77.333336; x_descenders 19.333334; x_ascenders 19.333334">
+      <span class='ocrx_word' id='word_1_267' title='bbox 726 1697 1240 1754; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
